@@ -9,7 +9,7 @@ num_sup	number(4),
 fecha_alta	date,
 salario	number(7,2),
 comision	number(7,2),
-num_dep	NUMBER(2))--holi
+num_dep	NUMBER(2))
 /
 
 insert into empleado values
